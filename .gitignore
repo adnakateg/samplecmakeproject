@@ -1,4 +1,6 @@
 *.code-workspace
 build/
 .vscode/
+.cache/
+compile_commands.json
 
